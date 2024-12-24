@@ -1,0 +1,150 @@
+[21/Dec/2024 11:24:55] INFO [extractor.main.main:331] Configuration: template_jsons: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/BREMERSPIR_ORDERS_IN_Getränke_Weidlich_GmbH.json, test_folder: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/pdf, fieldlist: extractor/test-media/MCShirt_dir/INVOCE_fieldlist-Extractor.csv, output_dir: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/output, developmen: False
+[21/Dec/2024 11:24:55] INFO [extractor.main.main:335] Initializing template processing
+[21/Dec/2024 11:24:55] INFO [extractor.template.__init__:35] configs: {'layout_parameters': {'line_margin': 0.1, 'char_margin': 2, 'all_texts': False}}
+[21/Dec/2024 11:24:55] ERROR [extractor.template.__init__:49] 0 source pdfs
+[21/Dec/2024 11:24:55] ERROR [extractor.template._get_bbox:151] ORDERID: ('20240612110607.pdf', '20240612110607.pdf') not found in template_documents
+[21/Dec/2024 13:52:56] INFO [extractor.main.main:331] Configuration: template_jsons: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/BREMERSPIR_ORDERS_IN_Getränke_Weidlich_GmbH.json, test_folder: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/pdf, fieldlist: extractor/test-media/MCShirt_dir/INVOCE_fieldlist-Extractor.csv, output_dir: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/output, developmen: False
+[21/Dec/2024 13:52:56] INFO [extractor.main.main:335] Initializing template processing
+[21/Dec/2024 13:52:56] INFO [extractor.template.__init__:35] configs: {'layout_parameters': {'line_margin': 0.1, 'char_margin': 2, 'all_texts': False}}
+[21/Dec/2024 13:52:56] ERROR [extractor.template.__init__:49] 0 source pdfs
+[21/Dec/2024 13:52:56] ERROR [extractor.template._get_bbox:151] ORDERID: ('20240612110607.pdf', '20240612110607.pdf') not found in template_documents
+[22/Dec/2024 20:25:24] INFO [extractor.main.main:331] Configuration: template_jsons: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH.json, test_folder: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/pdf, fieldlist: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/fieldlists/ord-ext.csv, output_dir: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/output, developmen: False
+[22/Dec/2024 20:25:24] INFO [extractor.main.main:335] Initializing template processing
+[22/Dec/2024 20:25:24] INFO [extractor.template.__init__:35] configs: {'layout_parameters': {'line_margin': 0.1, 'char_margin': 2, 'all_texts': False}}
+[22/Dec/2024 20:25:24] ERROR [extractor.template.__init__:49] 0 source pdfs
+[22/Dec/2024 20:25:24] ERROR [extractor.template._get_bbox:151] ORDERID: ('20240612110607.pdf', '20240612110607.pdf') not found in template_documents
+[22/Dec/2024 20:26:39] INFO [extractor.main.main:331] Configuration: template_jsons: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH.json, test_folder: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/pdf, fieldlist: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/fieldlists/ord-ext.csv, output_dir: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/output, developmen: False
+[22/Dec/2024 20:26:39] INFO [extractor.main.main:335] Initializing template processing
+[22/Dec/2024 20:26:39] INFO [extractor.template.__init__:35] configs: {'layout_parameters': {'line_margin': 0.1, 'char_margin': 2, 'all_texts': False}}
+[22/Dec/2024 20:26:39] ERROR [extractor.template.__init__:49] 0 source pdfs
+[22/Dec/2024 20:26:39] ERROR [extractor.template._get_bbox:151] ORDERID: ('20240612110607.pdf', '20240612110607.pdf') not found in template_documents
+[24/Dec/2024 00:07:39] INFO [extractor.main.main:331] Configuration: template_jsons: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/subhaan_orders_getraenke_2.json, test_folder: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/pdf, fieldlist: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/fieldlists/ord-ext.csv, output_dir: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/output, developmen: False
+[24/Dec/2024 00:07:39] INFO [extractor.main.main:335] Initializing template processing
+[24/Dec/2024 00:07:39] INFO [extractor.template.__init__:35] configs: {'layout_parameters': {'line_margin': 0, 'char_margin': 0.1, 'all_texts': False}, 'table_layout_type': 'line', 'indexer_level': 'word'}
+[24/Dec/2024 00:07:42] INFO [extractor.template.__init__:46] Number of source pdfs: 9
+[24/Dec/2024 00:07:42] INFO [extractor.template.__init__:47] source pdfs: ['20240617152350.pdf', '20240718111854.pdf', '20240624112340.pdf', '20240704133618.pdf', '20240612110607.pdf', '20240624150304.pdf', '20240729103644.pdf', '20240902175050.pdf', '20240806132033.pdf']
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Header (ORDERID) ([Nr.], [7100295817])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Header (ORDERDATE) ([Datum], [12.06.2024])
+[24/Dec/2024 00:07:42] ERROR [extractor.template._get_bbox:151] DELIVDATE: (None, None) not found in template_documents
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Header (DELIVDATE) (None, None)
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Header (SELLERGLN) ([Nr.], [7100295817])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Header (BUYERGLN) ([Nr.], [7100295817])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Header (SHIPTOGLN) ([Nr.], [7100295817])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Table Top Anchor BBox) [Art. Nr, Bezeichnung, Menge, ME]
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Table Bottom Anchor BBox) None
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Table Total) [Art. Nr, Bezeichnung, Menge, ME]
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Table Header) [Art. Nr, Bezeichnung, Menge, ME]
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Table Footer) None
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Single Row) [OUZORO, Ouzo Omiros 37,5% Ew 0,70, FLA, 96]
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Column Headings) None
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Index Key) [Menge]
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_table:200] Table (Index Cell Value) [96]
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (LINENUMBER) (None, None)
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (PRODSELLERID) ([Art. Nr], [OUZORO])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (PRODBUYERID) (None, None)
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (GTIN) (None, None)
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (PRODNAMESELLER) ([Bezeichnung], [Ouzo Omiros 37,5% Ew 0,70])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (ORDQUANTITY) ([Menge], [96])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (ORDQUANTITYUNIT) ([ME], [FLA])
+[24/Dec/2024 00:07:42] INFO [extractor.template._create_key_value_pair:161] Table (UNITPRICE) (None, None)
+[24/Dec/2024 00:07:42] INFO [extractor.main.main:342] template name: subhaan_orders_getraenke_2, document type: order
+[24/Dec/2024 00:07:42] INFO [extractor.main.main:344] injecting CLL
+[24/Dec/2024 00:07:42] INFO [extractor.main.inject_template_hardcodings:294] Found header CLL
+[24/Dec/2024 00:07:42] INFO [extractor.main.inject_template_hardcodings:294] Found table CLL
+[24/Dec/2024 00:07:42] INFO [extractor.main.inject_template_hardcodings:294] Found post_results CLL
+[24/Dec/2024 00:07:42] INFO [extractor.main.main:347] Initializing header processing
+[24/Dec/2024 00:07:42] INFO [extractor.main.process_headers:238] Header: Found 5 valid Header Key Value Pairs
+[24/Dec/2024 00:07:42] INFO [extractor.main.process_headers:243] Header: Found 18 test files
+[24/Dec/2024 00:07:49] INFO [extractor.main.main:363] Initializing line item processing
+[24/Dec/2024 00:07:49] INFO [extractor.main.process_table:173] Table: Found 4 valid Table Key Value Pairs
+[24/Dec/2024 00:07:49] INFO [extractor.main.process_table:205] Table: Found 16 rows in 20240612110607
+[24/Dec/2024 00:07:50] INFO [extractor.main.process_table:205] Table: Found 8 rows in 20240617152350
+[24/Dec/2024 00:07:51] INFO [extractor.main.process_table:205] Table: Found 14 rows in 20240624112340
+[24/Dec/2024 00:07:51] INFO [extractor.main.process_table:205] Table: Found 3 rows in 20240624150304
+[24/Dec/2024 00:07:51] INFO [extractor.main.process_table:205] Table: Found 11 rows in 20240704133618
+[24/Dec/2024 00:07:52] INFO [extractor.main.process_table:205] Table: Found 16 rows in 20240718111854
+[24/Dec/2024 00:07:53] INFO [extractor.main.process_table:205] Table: Found 12 rows in 20240729103644
+[24/Dec/2024 00:07:53] INFO [extractor.main.process_table:205] Table: Found 13 rows in 20240806132033
+[24/Dec/2024 00:07:54] INFO [extractor.main.process_table:205] Table: Found 24 rows in 20240902175050
+[24/Dec/2024 00:07:55] INFO [extractor.main.process_table:205] Table: Found 16 rows in 20240612110607
+[24/Dec/2024 00:07:55] INFO [extractor.main.process_table:205] Table: Found 8 rows in 20240617152350
+[24/Dec/2024 00:07:56] INFO [extractor.main.process_table:205] Table: Found 14 rows in 20240624112340
+[24/Dec/2024 00:07:56] INFO [extractor.main.process_table:205] Table: Found 3 rows in 20240624150304
+[24/Dec/2024 00:07:57] INFO [extractor.main.process_table:205] Table: Found 11 rows in 20240704133618
+[24/Dec/2024 00:07:57] INFO [extractor.main.process_table:205] Table: Found 16 rows in 20240718111854
+[24/Dec/2024 00:07:58] INFO [extractor.main.process_table:205] Table: Found 12 rows in 20240729103644
+[24/Dec/2024 00:07:59] INFO [extractor.main.process_table:205] Table: Found 13 rows in 20240806132033
+[24/Dec/2024 00:08:00] INFO [extractor.main.process_table:205] Table: Found 24 rows in 20240902175050
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:369] Created output directory at: extractor\test-media\BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH\output
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:371] getting keys form fieldlist at: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/fieldlists/ord-ext.csv
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:374] combining results of header and tables
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:383] Initializing production run
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:390] Initializing Multi key processing
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:394] Formatting results
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:397] Initializing Post Processing
+[24/Dec/2024 00:08:00] INFO [extractor.main.main:402] Saving to csv
+[24/Dec/2024 00:15:33] INFO [extractor.main.main:331] Configuration: template_jsons: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/subhaan_orders_getraenke_2.json, test_folder: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/pdf, fieldlist: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/fieldlists/ord-ext.csv, output_dir: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/output, developmen: False
+[24/Dec/2024 00:15:33] INFO [extractor.main.main:335] Initializing template processing
+[24/Dec/2024 00:15:33] INFO [extractor.template.__init__:35] configs: {'layout_parameters': {'line_margin': 0, 'char_margin': 0.1, 'all_texts': False}, 'table_layout_type': 'line', 'indexer_level': 'word'}
+[24/Dec/2024 00:15:36] INFO [extractor.template.__init__:46] Number of source pdfs: 9
+[24/Dec/2024 00:15:36] INFO [extractor.template.__init__:47] source pdfs: ['20240617152350.pdf', '20240718111854.pdf', '20240624112340.pdf', '20240704133618.pdf', '20240612110607.pdf', '20240624150304.pdf', '20240729103644.pdf', '20240902175050.pdf', '20240806132033.pdf']
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Header (ORDERID) ([Nr.], [7100295817])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Header (ORDERDATE) ([Datum], [12.06.2024])
+[24/Dec/2024 00:15:36] ERROR [extractor.template._get_bbox:151] DELIVDATE: (None, None) not found in template_documents
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Header (DELIVDATE) (None, None)
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Header (SELLERGLN) ([Nr.], [7100295817])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Header (BUYERGLN) ([Nr.], [7100295817])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Header (SHIPTOGLN) ([Nr.], [7100295817])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Table Top Anchor BBox) [Art. Nr, Bezeichnung, Menge, ME]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Table Bottom Anchor BBox) None
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Table Total) [Art. Nr, Bezeichnung, Menge, ME]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Table Header) [Art. Nr, Bezeichnung, Menge, ME]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Table Footer) [Leergut]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Single Row) [OUZORO, Ouzo Omiros 37,5% Ew 0,70, FLA, 96]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Column Headings) None
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Index Key) [Menge]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_table:200] Table (Index Cell Value) [96]
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (LINENUMBER) (None, None)
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (PRODSELLERID) ([Art. Nr], [OUZORO])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (PRODBUYERID) (None, None)
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (GTIN) (None, None)
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (PRODNAMESELLER) ([Bezeichnung], [Ouzo Omiros 37,5% Ew 0,70])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (ORDQUANTITY) ([Menge], [96])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (ORDQUANTITYUNIT) ([ME], [FLA])
+[24/Dec/2024 00:15:36] INFO [extractor.template._create_key_value_pair:161] Table (UNITPRICE) (None, None)
+[24/Dec/2024 00:15:36] INFO [extractor.main.main:342] template name: subhaan_orders_getraenke_2, document type: order
+[24/Dec/2024 00:15:36] INFO [extractor.main.main:344] injecting CLL
+[24/Dec/2024 00:15:36] INFO [extractor.main.inject_template_hardcodings:294] Found header CLL
+[24/Dec/2024 00:15:36] INFO [extractor.main.inject_template_hardcodings:294] Found table CLL
+[24/Dec/2024 00:15:36] INFO [extractor.main.inject_template_hardcodings:294] Found post_results CLL
+[24/Dec/2024 00:15:36] INFO [extractor.main.main:347] Initializing header processing
+[24/Dec/2024 00:15:36] INFO [extractor.main.process_headers:238] Header: Found 5 valid Header Key Value Pairs
+[24/Dec/2024 00:15:36] INFO [extractor.main.process_headers:243] Header: Found 18 test files
+[24/Dec/2024 00:15:42] INFO [extractor.main.main:363] Initializing line item processing
+[24/Dec/2024 00:15:42] INFO [extractor.main.process_table:173] Table: Found 4 valid Table Key Value Pairs
+[24/Dec/2024 00:15:43] INFO [extractor.main.process_table:205] Table: Found 14 rows in 20240612110607
+[24/Dec/2024 00:15:43] INFO [extractor.main.process_table:205] Table: Found 6 rows in 20240617152350
+[24/Dec/2024 00:15:43] INFO [extractor.main.process_table:205] Table: Found 12 rows in 20240624112340
+[24/Dec/2024 00:15:44] INFO [extractor.main.process_table:205] Table: Found 1 rows in 20240624150304
+[24/Dec/2024 00:15:44] INFO [extractor.main.process_table:205] Table: Found 9 rows in 20240704133618
+[24/Dec/2024 00:15:45] INFO [extractor.main.process_table:205] Table: Found 14 rows in 20240718111854
+[24/Dec/2024 00:15:45] INFO [extractor.main.process_table:205] Table: Found 10 rows in 20240729103644
+[24/Dec/2024 00:15:46] INFO [extractor.main.process_table:205] Table: Found 11 rows in 20240806132033
+[24/Dec/2024 00:15:47] INFO [extractor.main.process_table:205] Table: Found 22 rows in 20240902175050
+[24/Dec/2024 00:15:47] INFO [extractor.main.process_table:205] Table: Found 14 rows in 20240612110607
+[24/Dec/2024 00:15:48] INFO [extractor.main.process_table:205] Table: Found 6 rows in 20240617152350
+[24/Dec/2024 00:15:48] INFO [extractor.main.process_table:205] Table: Found 12 rows in 20240624112340
+[24/Dec/2024 00:15:49] INFO [extractor.main.process_table:205] Table: Found 1 rows in 20240624150304
+[24/Dec/2024 00:15:49] INFO [extractor.main.process_table:205] Table: Found 9 rows in 20240704133618
+[24/Dec/2024 00:15:50] INFO [extractor.main.process_table:205] Table: Found 14 rows in 20240718111854
+[24/Dec/2024 00:15:50] INFO [extractor.main.process_table:205] Table: Found 10 rows in 20240729103644
+[24/Dec/2024 00:15:51] INFO [extractor.main.process_table:205] Table: Found 11 rows in 20240806132033
+[24/Dec/2024 00:15:52] INFO [extractor.main.process_table:205] Table: Found 22 rows in 20240902175050
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:369] Created output directory at: extractor\test-media\BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH\output
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:371] getting keys form fieldlist at: extractor/test-media/BREMERSPIR_ORDERS_IN_Getraenke_Weidlich_GmbH/fieldlists/ord-ext.csv
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:374] combining results of header and tables
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:383] Initializing production run
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:390] Initializing Multi key processing
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:394] Formatting results
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:397] Initializing Post Processing
+[24/Dec/2024 00:15:52] INFO [extractor.main.main:402] Saving to csv
